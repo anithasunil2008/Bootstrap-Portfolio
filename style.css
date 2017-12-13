@@ -1,0 +1,89 @@
+body{
+	background-image:  url("images/regal.png"); 
+	background-repeat: repeat; 
+	font-family: Arial;
+}
+header{	
+	background-color: white;
+	border: solid;
+	border-color: #cccccc;
+	
+}
+
+#name{
+	background-color: #4aaaa5; 
+	margin-left: 130px; 
+	height: 60px; 
+	color: white; 
+	width: 180px;
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Georgia';
+	letter-spacing: 3px;
+}
+
+#index1 , #index2, #contact , #portfolio{
+	background-color: white;
+	height: 450px;
+	padding-top: 20px;	
+	border: solid;
+	border-color: #cccccc;
+	line-height: 30px;
+}
+
+#contact{
+	height: 540px;
+	padding: 20px;
+}
+#index2{
+	margin-left: 20px;
+	height: 250px;
+}
+
+#portfolio{
+	height: 950px;
+}
+#about{
+	color: #4aaaa5;
+}
+
+#div2{
+	text-align: center; 
+	color: #4aaaa5;
+}
+
+#img{
+	text-align: center;
+}
+
+#div3{
+	width: 100%;
+	clear: both;
+	height: 10px;
+	background-color:  #4aaaa5;
+	margin-top: 150px;
+}
+#link{
+	color: #777777;
+	font-size: 20px;
+} 
+#pic{
+   margin-top: 30px;
+}  
+#para{
+   margin-left: 20px;
+}
+.text{
+	background-color: #4aaaa5;
+	width: 300px;
+	text-align: center;
+	color: white;
+}
+.footer{
+	clear: both;
+	overflow: auto;
+	background-color: #666666;
+	padding-top: 20px;
+	margin-bottom: 0px;
+	color: white;
+}
